@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
-
+#CUSTOMS GEMS
+gem 'devise', '~> 4.2'
+# END CUSTOMS GEMS
 gem 'rails', '4.2.5'
-gem 'pg', '~> 0.15'
+gem 'pg', '0.20'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
